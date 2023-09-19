@@ -60,6 +60,6 @@ This is a minimal web application built with Flask and SQLite for storing and vi
 
 ### Dependencies
 
-Flask (Python web framework)
-SQLite3 (Database engine)
-Jinja2 (Template engine)
+- Flask (Python web framework)
+- SQLite3 (Database engine)
+- Jinja2 (Template engine)
